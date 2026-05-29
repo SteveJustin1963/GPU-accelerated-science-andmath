@@ -14,8 +14,11 @@ Based on your hardware specifications, your components range from 10 to 18 years
 
 * CPU (Intel Core 2 Quad Q9650): Released on 10 August 2008. It is 17 years, 9 months old. [1] 
 * GPU (NVIDIA GeForce GTX 1050 Ti): Released on 25 October 2016. It is 9 years, 7 months old. [2, 3] 
-* RAM (7.8GB/8GB DDR3 or DDR2): Matching the era of your motherboard and Core 2 Quad processor, this memory would have been manufactured between 2008 and 2010, making it roughly 16 to 18 years old. [4] 
-* OS (Ubuntu Linux): Ubuntu itself first launched in October 2004. New versions are released [every 6 months](https://ubuntu.com/about/release-cycle). Depending on which version you currently have installed, your operating system software could be brand new or a few years old. [5, 6] 
+* RAM (7.8GB/8GB DDR3 or DDR2): Matching the era of your motherboard and Core 2 Quad processor,
+this memory would have been manufactured between 2008 and 2010, making it roughly 16 to 18 years old. [4] 
+* OS (Ubuntu Linux): Ubuntu itself first launched in October 2004. New versions are released
+ [every 6 months](https://ubuntu.com/about/release-cycle). Depending on which version you currently
+have installed, your operating system software could be brand new or a few years old. [5, 6] 
 
 ## Summary Comparison
 
@@ -26,8 +29,11 @@ Based on your hardware specifications, your components range from 10 to 18 years
 | GPU (GTX 1050 Ti) | October 2016 | ~9.5 Years |
 | OS (Ubuntu Linux) | Continuous Updates (2004–Present) | Varies by version |
 
-Your computer is a classic "Frankenstein" build where a much newer, budget-friendly graphics card (from 2016) was added later to breathe new life into a very old core system (from 2008). Linux Ubuntu is an excellent choice for this setup, as it keeps older hardware highly usable for everyday tasks! [2, 7, 9] 
-If you want to check exactly how old your current software is, would you like me to show you the commands to find your specific Ubuntu version or check your RAM type?
+Your computer is a classic "Frankenstein" build where a much newer, budget-friendly graphics card (from 2016)
+was added later to breathe new life into a very old core system (from 2008). Linux Ubuntu is an excellent
+choice for this setup, as it keeps older hardware highly usable for everyday tasks! [2, 7, 9] 
+If you want to check exactly how old your current software is, would you like me to show you the commands
+ to find your specific Ubuntu version or check your RAM type?
 
 [1] [https://www.techspot.com](https://www.techspot.com/specs/cpu/80218-intel-core-q9650.html)
 [2] [https://en.wikipedia.org](https://en.wikipedia.org/wiki/GeForce_10_series)
