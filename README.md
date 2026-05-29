@@ -1,5 +1,20 @@
-# GTX-750-GPU-can-accelerate-for-science-math
-what you can practically do right now with this GPU on Linux
+ok you still use ur old tec1 and you cant part with ur old 20 yo desktop pc
+
+so this is what i have
+```
+CPU: Intel Core 2 Quad Q9650 @ 3.00GHz (4 cores, x86_64)
+  RAM: 7.8GB total (3.4GB available)
+  GPU: NVIDIA GeForce GTX 1050 Ti
+  Motherboard: Unable to determine without sudo access
+
+  its a classic Intel Core 2 Quad from 2008 with a modern GTX
+  1050 Ti GPU and decent RAM for most tasks.
+```
+and i run llm in the termnal, in this case claude  
+
+good news is i can run and accelerate science math and code 
+
+this is practically what i can do right now with this setup
 
 
 Here’s a **full, clean, technical explanation** of:
